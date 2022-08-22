@@ -46,3 +46,4 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dystopxa&layout=compact&theme=algolia" alt="Dystopxa" /></a> </p>
   
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://github.com/Dystopxa/About-Me-2/blob/main/Big.gif" />
