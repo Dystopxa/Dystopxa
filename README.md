@@ -8,7 +8,7 @@
 </p align="center">
 <!--- Picture --->
 <p align="center">
-<img src="https://github.com/Dystopxa/About-Me-2/blob/main/Big.gif" />
+<img src="![Big](https://user-images.githubusercontent.com/109173637/186008731-f3d05ab8-0e32-41bc-b53b-0d5badb770aa.gif)" />
   </p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <!--- Stat Github --->
@@ -47,4 +47,5 @@
   
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-![Big](https://user-images.githubusercontent.com/109173637/186008731-f3d05ab8-0e32-41bc-b53b-0d5badb770aa.gif)
+
+
