@@ -8,8 +8,7 @@
 </p align="center">
 <!--- Picture --->
 <p align="center">
-<img src="![Big](https://user-images.githubusercontent.com/109173637/186009094-4fa38122-f75a-43cf-9c6c-2b9c06d37f71.gif)
-" />
+<img src="https://raw.githubusercontent.com/Luna-Corp-Officials/About-Me/main/Big.gif" />
   </p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <!--- Stat Github --->
