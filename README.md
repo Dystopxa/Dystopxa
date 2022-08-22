@@ -8,7 +8,8 @@
 </p align="center">
 <!--- Picture --->
 <p align="center">
-<img src="![Big](https://user-images.githubusercontent.com/109173637/186008731-f3d05ab8-0e32-41bc-b53b-0d5badb770aa.gif)" />
+<img src="![Big](https://user-images.githubusercontent.com/109173637/186009094-4fa38122-f75a-43cf-9c6c-2b9c06d37f71.gif)
+" />
   </p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <!--- Stat Github --->
