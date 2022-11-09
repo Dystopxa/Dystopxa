@@ -2,7 +2,7 @@
 </p>
 <p align="center">
   <a align="center" href="https://github.com/Dystopxa/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
-<p align="center"> Hello! I am the Co-owner of Luna Corp.© alongside Wiggly (owner)  </p align="center">
+<p align="center"> Hello!</p align="center">
 <p align="center">
 
 </p align="center">
